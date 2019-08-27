@@ -2,7 +2,11 @@
 title: "Activity 1.2 - RStudio and R Markdown"
 author: "Connor Larson"
 date: "8/28/2019"
-output: html_document
+output: 
+  html_document: 
+    fig_width: 5
+    highlight: textmate
+    theme: cosmo
 ---
 
 ### Load packages
